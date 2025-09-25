@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Valentin PETIT  
 
-<!--
-**valentin-petit/valentin-petit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actuellement étudiant en BUT informatique à l'IUT de Illkirch-Graffenstaden.  
 
-Here are some ideas to get you started:
+## 🔧 Ce que je pratique
+- Langages : HTML, CSS, PHP, C#, C, Java
+- SGBD: MySQL 
+- Frameworks : .NET
+- Outils : Git, GitHub, Godot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter
+- Email : valentinpetitgarcia@gmail.com
+- LinkedIn : 
