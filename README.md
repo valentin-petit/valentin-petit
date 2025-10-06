@@ -6,7 +6,7 @@
 - Langages : HTML, CSS, PHP, C#, C, Java
 - SGBD: MySQL 
 - Frameworks : .NET
-- Outils : Git, GitHub, Godot  
+- Outils : Git, IntelliJ, Godot  
 
 ## Mes repository
 - 
