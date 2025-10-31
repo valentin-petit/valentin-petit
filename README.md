@@ -41,21 +41,14 @@ A l'aide de mon parcours, j'ai pu développer des bases solides et travailler su
    
 
 
-<h3>Mes Projets (repository)</h3>
-- Réalisation d'une application gérant une base de données avec Microsoft.NET.. **Gestion caserne de pompier**
-- 
-- 
+<h3>Mes Projets (repository) :</h3>
 
-<h3 align="left">Pour me contacter:</h3>
-<p align="left">valentinpetitgarcia@gmail.com</p>
+- **[Application de Gestion (BDD) pour Caserne de Pompiers - C#/.NET](https://github.com/valentin-petit/Application-Gestion-Caserne-de-pompier-C-)**
+  * *Description :* Application Windows Forms permettant la gestion complète de quatre casernes de pompiers incluant les fonctionnalités : tableau de bord des missions, création de missions (personnel + matériel), affichage des engins, gestion /inscription du personnel et page de statistiques.
+- **[Serious Game d'Audit et Gestion - Godot/C#](https://github.com/valentin-petit/Clicker-Godot-C-)**
+  * *Description :* Projet en cours de développement.
+- **[Jeu d'Aventure (D&D) Textuel/Console : Design POO en Java](https://github.com/valentin-petit/Jeu-Donjons-et-Dragons-en-Java)**
+  * *Description :* Implémentation complète d'un jeu Donjons&Dragons. Ce projet gère un système de combat tour par tour basé sur des jets de dés.
+- **[Simulation de Réseau LAN en C](https://github.com/valentin-petit/Simulation-Lan-en-C)**
+  * *Description :* Projet bas-niveau en C axé sur l'implémentation du protocole STP (Spanning Tree Protocol) et la modélisation des trames Ethernet et des équipements réseau (Stations, Switches) via des structures de données.
 
-
-. README : 
-  --> Nom (parlant)
-  --> Description de l'application comme si elle était fonctionnelle
-  --> technos
-  --> Pas à pas d'installation / lancement
-  --> Fonctionnement (tuto) // cahier des charges
-
-. gitignore
-. Section "About"
