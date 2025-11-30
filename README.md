@@ -47,9 +47,7 @@ A l'aide de mon parcours, j'ai pu développer des bases solides et travailler su
 - **[Jeu d'Aventure (D&D) Textuel/Console : Design POO en Java](https://github.com/valentin-petit/Jeu-Donjons-et-Dragons-en-Java)**
 - **[Simulation de Réseau LAN en C](https://github.com/valentin-petit/Simulation-Lan-en-C)**
 
-<p align="center">  
-    <summary><b>Passions et Loisirs</b></summary>
-    <p align="center">
+<h3>Passions et Loisirs</h3>    
 
 <p>Randonnée : J'adore la randonnée en paysage montagneux (Alpes, Pyrénées, Vosges).
 
