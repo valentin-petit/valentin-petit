@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Salut, je suis Valentin Petit ! Bienvenue sur mon profil.</h1>
+<h1 align="center">Bonjour, je suis Valentin Petit ! Bienvenue sur mon profil.</h1>
 <h3 align="center">Étudiant en BUT Informatique (RACDV) et futur Concepteur-Développeur d'Applications.</h3>
 
 Actuellement étudiant en **BUT Informatique, parcours Réalisation d’Applications : Conception, Développement, Validation** à l'Université de Strasbourg...
@@ -7,7 +7,7 @@ A l'aide de mon parcours, j'ai pu développer des bases solides et travailler su
 
 <p align="center">
   <details open>
-    <summary><b>Applications et Logiciels</b></summary>
+    <summary><b>Langages Applications et Logiciels</b></summary>
     <p align="center">
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/C.svg" alt="C" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -16,7 +16,7 @@ A l'aide de mon parcours, j'ai pu développer des bases solides et travailler su
   </details>
 
   <details open>
-    <summary><b>Web & Gestion de Données</b></summary>
+    <summary><b>Langages Web & Gestion de Données</b></summary>
     <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
