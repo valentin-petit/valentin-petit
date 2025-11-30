@@ -40,11 +40,22 @@ A l'aide de mon parcours, j'ai pu développer des bases solides et travailler su
 </p>
    
 
-
 <h3>Mes Projets (repository) :</h3>
 
 - **[Application de Gestion (BDD) pour Caserne de Pompiers - C#/.NET](https://github.com/valentin-petit/Application-Gestion-Caserne-de-pompier-C-)**
 - **[Serious Game d'Audit et Gestion - Godot/C#](https://github.com/valentin-petit/Clicker-Godot-C-)**
 - **[Jeu d'Aventure (D&D) Textuel/Console : Design POO en Java](https://github.com/valentin-petit/Jeu-Donjons-et-Dragons-en-Java)**
 - **[Simulation de Réseau LAN en C](https://github.com/valentin-petit/Simulation-Lan-en-C)**
+
+<p align="center">  
+    <summary><b>Passions et Loisirs</b></summary>
+    <p align="center">
+
+<p>Randonnée : J'adore la randonnée en paysage montagneux (Alpes, Pyrénées, Vosges).
+
+Musique : J'ai des affinités pour le Rap, le Rock, la Musique Latine et l'Électronique.
+
+Lecture : Grand intérêt pour la lecture de mangas.</p>
+    </p>
+</p>
 
