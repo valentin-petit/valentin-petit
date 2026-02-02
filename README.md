@@ -43,7 +43,7 @@ A l'aide de mon parcours, j'ai pu développer des bases solides et travailler su
 <h3>Mes Projets (repository) :</h3>
 
 - **[Application de Gestion (BDD) pour Caserne de Pompiers - C#/.NET](https://github.com/valentin-petit/Application-Gestion-Caserne-de-pompier-C-)**
-- **[Serious Game d'Audit et Gestion - Godot/C#](https://github.com/valentin-petit/Clicker-Godot-C-)**
+- **[Serious Game d'Audit et Gestion - Godot/C#](https://github.com/valentin-petit/Serious-Game)**
 - **[Jeu d'Aventure (D&D) Textuel/Console : Design POO en Java](https://github.com/valentin-petit/Jeu-Donjons-et-Dragons-en-Java)**
 - **[Simulation de Réseau LAN en C](https://github.com/valentin-petit/Simulation-Lan-en-C)**
 
