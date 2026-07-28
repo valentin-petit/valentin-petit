@@ -23,6 +23,12 @@ A l'aide de mon parcours, j'ai pu développer des bases solides et travailler su
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="NextJs" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCss" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/livewire/livewire-original.svg" alt="Livewire" width="40" height="40" />
     </p>
   </details>
 
@@ -35,6 +41,7 @@ A l'aide de mon parcours, j'ai pu développer des bases solides et travailler su
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscodium/vscodium-original.svg" alt="VSCodium" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
     </p>
   </details>
 </p>
