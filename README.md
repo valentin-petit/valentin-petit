@@ -5,46 +5,47 @@ Actuellement étudiant en **BUT Informatique, parcours Réalisation d’Applicat
 
 A l'aide de mon parcours, j'ai pu développer des bases solides et travailler sur des projets concrets avec les langages et outils suivants :
 
-<p align="center">
-  <details open>
-    <summary><b>Langages Applications et Logiciels</b></summary>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/C.svg" alt="C" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </p>
-  </details>
+<details open>
+  <summary><b>Langages Applications et Logiciels</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/C.svg" alt="C" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </div>
+</details>
 
-  <details open>
-    <summary><b>Langages Web & Gestion de Données</b></summary>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="NextJs" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCss" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/livewire/livewire-original.svg" alt="Livewire" width="40" height="40" />
-    </p>
-  </details>
+<details open>
+  <summary><b>Langages Web & Gestion de Données</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="NextJs" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCss" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/livewire/livewire-original.svg" alt="Livewire" width="40" height="40" />
+  </div>
+</details>
 
-  <details open>
-    <summary><b>Outils & Environnement</b></summary>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscodium/vscodium-original.svg" alt="VSCodium" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> 
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
-    </p>
-  </details>
-</p>
+<details open>
+  <summary><b>Outils & Environnement</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscodium/vscodium-original.svg" alt="VSCodium" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
+  </div>
+</details>
    
 
 <h3>Mes Projets (repository) :</h3>
